@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+
+```bash
+flutter create --platforms android .
+flutter create --platforms web .
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
